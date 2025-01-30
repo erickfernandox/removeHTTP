@@ -1,4 +1,4 @@
-#Esta ferramenta funciona simplesmente para remover os http:// ou https:// de uma lista de URLs.
+Esta ferramenta funciona simplesmente para remover os http:// ou https:// de uma lista de URLs.
 
 Uso:
 
