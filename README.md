@@ -1,18 +1,16 @@
 Esta ferramenta funciona simplesmente para remover os http:// ou https:// de uma lista de URLs.
 
-Uso:
+Como usar:
 
 python3 removehttp.py -l listaurls.txt
 
--
-
-Entrada:
+- Entrada:
 
 https://example.com
 https://google.com
 https://xxx.com
 
-Saida:
+- Saida:
 
 example.com
 google.com
